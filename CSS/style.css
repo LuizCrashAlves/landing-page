@@ -136,12 +136,7 @@ button:hover {
     nav ul li {
         font-size: 20px;
     }
-    #sobre {
-        flex-direction: row;
-    }
-    aside {
-        background: linear-gradient(to bottom, #f72f3c, #fff4f2);
-    }
+
     .imageprojeto {
         flex-direction: row;
     }
@@ -151,6 +146,12 @@ button:hover {
     }
 }
 @media (min-width: 769px) {
+    #sobre {
+        flex-direction: row;
+    }
+    aside {
+        background: linear-gradient(to bottom, #f72f3c, #fff4f2);
+    }
     footer {
         margin-left: 300px;
         margin-right: 300px;
