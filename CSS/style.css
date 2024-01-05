@@ -138,7 +138,7 @@ button:hover {
 }
 @keyframes slide {
     from {
-        margin-left: -10%;
+        margin-left: -15%;
     }
     to {
         margin-left: 0%;
